@@ -1,1 +1,7 @@
-
+Ínicio
+Leia N
+Result =  (n-1) x 10 + (10-n)
+Faça (n-1) x 10 + (10-n)
+Imprima: "9 x N ="
+Imprima Result
+Fim
