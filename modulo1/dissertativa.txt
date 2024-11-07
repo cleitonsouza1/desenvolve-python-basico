@@ -1,1 +1,7 @@
+Leia e armazene os 2 números que se deseja multiplicar ( Sendo 1 deles obrigatoriamente o 9 ) ou seja, 9 x n ( Em que n é um número de 1 a 10 escolhido)
+Para prosseguir, faça a operação de subtração em N 1 unidade , multiplique o resultado da subtração por 10 e some com o resultado da subtração de (10 - N)
+Por fim, apresente o resultado do processo
+
+
+
 
